@@ -1,6 +1,5 @@
 - Hi, I’m Syed Hassan Ali
-- I’m a student
-- I’m currently learning full stack development on .net
+- I’m a Web Developer having expertise on asp.net, asp.net core 
 - to reach me: hassanalisyed799@gmail.com
 
 
