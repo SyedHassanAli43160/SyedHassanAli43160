@@ -1,5 +1,5 @@
 - Hi, I’m Syed Hassan Ali
-- I’m a Web Developer having expertise on asp.net, asp.net core 
+- I’m a Web Developer having expertise on asp.net, asp.net core, MVC, Blazor, PHP, Wordpress, Sql Server, Mysql, Entity Framework, EF Core and much more
 - to reach me: hassanalisyed799@gmail.com
 
 
